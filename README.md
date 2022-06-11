@@ -1,5 +1,6 @@
 # ProyectoFinalSeminara
 Quizz de Los Simpson
+
 El proyecto consiste en un Quizz de los Simpson donde toda la interaccion del mismo se realiza de manera dinamica.
 
 Para correr el proyecto solo hace falta abrirlo con Live Server.
